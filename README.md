@@ -1,2 +1,2 @@
 # MongoDB
-Working ideas of Mongodb Database
+Sharing ideas and learnings of Mongodb Database
